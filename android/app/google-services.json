@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427186193177",
+    "project_id": "votingsystem-76499",
+    "storage_bucket": "votingsystem-76499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427186193177:android:4b3c21b60a0be9e83cfb88",
+        "android_client_info": {
+          "package_name": "com.bravechains.electchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfQcFuELb7QIClgV142CfEcr7rtx_IgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
